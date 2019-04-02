@@ -11,3 +11,4 @@ def my_select(array)
 end
 
 
+#The .select method returns a new collection containing all of the elements in the submitted collection for which the block's conditional is true
