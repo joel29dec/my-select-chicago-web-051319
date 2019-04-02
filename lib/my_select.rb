@@ -12,8 +12,8 @@ def my_select(array)
   end
 end
 
-my_select(nums) do |num|
-      num.even?
-      end
+#my_select(nums) do |num|
+      #num.even?
+      #end
     
 #The .select method returns a new collection containing all of the elements in the submitted collection for which the block's conditional is true
